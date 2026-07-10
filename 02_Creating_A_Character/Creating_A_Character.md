@@ -116,34 +116,34 @@ The Standard Languages table lists languages that are widespread in the setting.
 
 **Standard Languages**
 
-| **1d12** | **Language**         |
-| :------- | :------------------- |
-| -        | Common               |
-| 1        | Common Sign Language |
-| 2        | Draconic             |
-| 3-4      | Dwarvish             |
-| 5-6      | Elvish               |
-| 7        | Giant                |
-| 8        | Gnomish              |
-| 9        | Goblin               |
-| 10-11    | Halfling             |
-| 12       | Orc                  |
+| **1d12** | **Language**         | **Origin** |
+| :------- | :------------------- | :--------- |
+| -        | Common               | Sigil      |
+| 1        | Common Sign Language | Sigil      |
+| 2        | Draconic             | Dragons    |
+| 3-4      | Dwarvish             | Dwarves    |
+| 5-6      | Elvish               | Elves      |
+| 7        | Giant                | Giants     |
+| 8        | Gnomish              | Gnomes     |
+| 9        | Goblin               | Goblinoids |
+| 10-11    | Halfling             | Halflings  |
+| 12       | Orc                  | Orcs       |
 
 The Rare Languages table lists languages that are either secret or derived from other planes of existence and thus less widespread in the worlds of the Material Plane. Some features let a character learn a rare language.
 
 **Rare Languages**
 
-| **Language**  |      |
-| :------------ | :--- |
-| Abyssal       |      |
-| Celestial     |      |
-| Deep Speech   |      |
-| Druidic       |      |
-| Infernal      |      |
-| Primordial*   |      |
-| Sylvan        |      |
-| Thieves' Cant |      |
-| Undercommon   |      |
+| **Language**  | **Origin**               |
+| :------------ | :----------------------- |
+| Abyssal       | Demons of the Abyss      |
+| Celestial     | Celestials               |
+| Deep Speech   | Aberrations              |
+| Druidic       | Druidic circles          |
+| Infernal      | Devils of the Nine Hells |
+| Primordial*   | Elementals               |
+| Sylvan        | The Feywild              |
+| Thieves' Cant | Various criminal guilds  |
+| Undercommon   | The Underdark            |
 
 *Primordial includes the Aquan, Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one.
 
@@ -386,6 +386,10 @@ In tier 3, characters have reached a level of power that makes them special amon
 
 At tier 4, characters achieve the pinnacle of their class features, becoming heroic archetypes. The fate of the world or even the order of the multiverse might hang in the balance during their adventures.
 
+##### Bonus Feats At Level 20
+
+A GM can use feats as a form of advancement after characters reach level 20 to provide greater power to characters who have no more levels to gain. With this approach, each character gains one feat of their choice for every 30,000 XP the character earns above 355,000 XP. Epic Boon feats are especially appropriate for these bonus feats, but a player can choose any feat for which their level 20 character qualifies.
+
 ## Starting at Higher Levels
 
 Your GM might start your group's characters at a level higher than 1. It is particularly recommended to start at level 3 if your group is composed of seasoned D&D players.
@@ -394,23 +398,11 @@ Your GM might start your group's characters at a level higher than 1. It is part
 
 Creating a higher-level character uses the same character-creation steps outlined in this chapter and the rules for advancing beyond level 1 provided in the "Level Advancement" section You begin with the minimum amount of XP required to reach your starting level. For example, if the GM starts you at level 10, you have 64,000 XP.
 
-##### Bonus Feats At Level 20
-
-A GM can use feats as a form of advancement after characters reach level 20 to provide greater power to characters who have no more levels to gain. With this approach, each character gains one feat of their choice for every 30,000 XP the character earns above 355,000 XP. Epic Boon feats are especially appropriate for these bonus feats, but a player can choose any feat for which their level 20 character qualifies.
-
 ### Starting Equipment
 
 The GM decides whether your character starts with more than the standard equipment for a level 1 character, possibly even one or more magic items. The Starting Equipment at Higher Levels table is a guide for the GM.
 
 Also, check with your GM about what equipment is available for you to buy with your starting money. For example, the firearms described in "Equipment" are too expensive for level 1 characters, but they might be available for purchase if your GM allows them.
-
-## Multiclassing
-
-Multiclassing allows you to gain levels in multiple classes. With this rule, you have the option of gaining a level in a new class whenever you advance in level instead of gaining a level in your current class. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in a single class.
-
-### Prerequisites
-
-To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes. For example, a Barbarian who decides to multiclass into the Druid class must have Strength and Wisdom scores of 13 or higher, since Strength is the primary ability for Barbarians and Wisdom is the primary ability for Druids.
 
 ##### Starting Equipment at Higher Levels
 
@@ -420,6 +412,14 @@ To qualify for a new class, you must have a score of at least 13 in the primary 
 | 5-10           | 500 GP plus 1d10 × 25 GP plus normal starting equipment     | 1 Common, 1 Uncommon                      |
 | 11-16          | 5,000 gp plus 1d10 × 250 GP plus normal starting equipment  | 2 Common, 3 Uncommon, 1 Rare              |
 | 17-20          | 20,000 GP plus 1d10 × 250 GP plus normal starting equipment | 2 Common, 4 Uncommon, 3 Rare, 1 Very Rare |
+
+## Multiclassing
+
+Multiclassing allows you to gain levels in multiple classes. With this rule, you have the option of gaining a level in a new class whenever you advance in level instead of gaining a level in your current class. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in a single class.
+
+### Prerequisites
+
+To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes. For example, a Barbarian who decides to multiclass into the Druid class must have Strength and Wisdom scores of 13 or higher, since Strength is the primary ability for Barbarians and Wisdom is the primary ability for Druids.
 
 ### Experience Points
 
