@@ -23,7 +23,7 @@
 
 ***Multiattack.*** The wererat makes two attacks, using Scratch or Hand Crossbow in any combination. It can replace one attack with a Bite attack.
 
-***Bite (Rat or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 8 (2d4 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. DC 11. The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a under the GM's control and has 10 Hit Points. The target is immune to this wererat's curse for 24 hours.
+***Bite (Rat or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 8 (2d4 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. DC 11. The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a **Wererat** under the GM's control and has 10 Hit Points. *Success:* The target is immune to this wererat's curse for 24 hours.
 
 ***Scratch.*** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing damage.
 

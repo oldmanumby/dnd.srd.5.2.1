@@ -1,6 +1,6 @@
 # Mirror of Life Trapping
 
-*Wondrous Item, Very Rare* armor normally imposes Disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.
+*Wondrous Item, Very Rare*
 
 When this 4-foot-tall, 2-foot-wide mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, HP 10, Immunity to Poison and Psychic damage, and Vulnerability to Bludgeoning damage. It shatters and is destroyed when reduced to 0 Hit Points.
 
@@ -17,8 +17,3 @@ While within 5 feet of the mirror, you can take a Magic action to name one creat
 In a similar way, you can take a Magic action and use a second command word to free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
 
 Placing the mirror inside an extradimensional space created by a *Bag of Holding* , *Portable Hole* , or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
-
-| Mithral Armor Armor (Any Medium or Heavy, Except Hide Armor), Uncommon | 1d100 (13-Card Deck) | 1d100 (22-Card Deck) | Card  |
-| :----------------------------------------------------------- | :------------------- | :------------------- | :---- |
-| Mithral is a light, flexible metal. Armor made of this       | 65-72                | 74-77                | Skull |
-| substance can be worn under normal clothes. If the           | 73-80                | 78-82                | Star  |

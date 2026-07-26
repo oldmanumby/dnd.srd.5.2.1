@@ -1,24 +1,5 @@
 # Wraith
 
-*Large Monstrosity, Neutral Evil*
-
-**AC** 13 **Initiative** +1 (11)
-
-**HP** 75 (10d10 + 20)
-
-**Speed** 50 ft.
-
-|            | MOD  | SAVE |            | MOD  | SAVE |            | MOD  | SAVE |
-| :--------- | :--- | :--- | :--------- | :--- | :--- | :--------- | :--- | :--- |
-| **Str 18** | +4   | +4   | **Dex 13** | +1   | +1   | **Con 14** | +2   | +2   |
-| **Int 7**  | −2   | −2   | **Wis 12** | +1   | +1   | **Cha 8**  | −1   | −1   |
-
-**Skills** Perception +5, Stealth +5
-
-**Immunities** Cold
-
-**Senses** Passive Perception 15 **Languages** Common, Giant **CR** 3 (XP 700; PB +2)
-
 *Medium or Small Undead, Neutral Evil*
 
 **AC** 13 **Initiative** +3 (13)

@@ -8,14 +8,6 @@
 
 **Speed** 30 ft., Burrow 15 ft., Fly 60 ft., Swim 30 ft.
 
-*Medium or Small Monstrosity (Lycanthrope), Chaotic Evil*
-
-**AC** 15 **Initiative** +4 (14)
-
-**HP** 71 (11d8 + 22)
-
-**Speed** 30 ft., 40 ft. (wolf form only)
-
 |            | MOD  | SAVE |            | MOD  | SAVE |            | MOD  | SAVE |
 | :--------- | :--- | :--- | :--------- | :--- | :--- | :--------- | :--- | :--- |
 | **Str 14** | +2   | +2   | **Dex 10** | +0   | +2   | **Con 14** | +2   | +2   |

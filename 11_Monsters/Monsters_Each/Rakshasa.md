@@ -44,5 +44,3 @@
 ***At Will:*** *Detect Magic* , *Detect Thoughts* , *Disguise Self* , *Mage Hand* , *Minor Illusion*
 
 ***1/Day Each:*** *Fly* , *Invisibility* , *Major Image* , *Plane Shift*
-
-## Red Dragon Wyrmling

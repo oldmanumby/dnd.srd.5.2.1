@@ -45,7 +45,7 @@ While it has 0 Hit Points in mist form, it can't return to its vampire form, and
 
 ***Grave Strike (Vampire Form Only).*** *Melee Attack Roll:* +9, reach 5 ft. 8 (1d8 + 4) Bludgeoning damage plus 7 (2d6) Necrotic damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14) from one of two hands.
 
-***Bite (Bat or Vampire Form Only).*** *Constitution Saving Throw:* DC 17, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. *Failure:* 6 (1d4 + 4) Piercing damage plus 13 (3d8) Necrotic damage. The target's Hit Point maximum **Vampire Spawn**
+***Bite (Bat or Vampire Form Only).*** *Constitution Saving Throw:* DC 17, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. *Failure:* 6 (1d4 + 4) Piercing damage plus 13 (3d8) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains Hit Points equal to that amount. A Humanoid whose Hit Points drop to 0 from this damage and who is then buried rises the following sunrise as a **Vampire Spawn** under the vampire's control.
 
 ## Bonus Actions
 
