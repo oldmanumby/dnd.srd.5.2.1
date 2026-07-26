@@ -1,5 +1,13 @@
 # Werewolf
 
+*Medium or Small Monstrosity (Lycanthrope), Chaotic Evil*
+
+**AC** 15 **Initiative** +4 (14)
+
+**HP** 71 (11d8 + 22)
+
+**Speed** 30 ft., 40 ft. (wolf form only)
+
 |            | MOD  | SAVE |            | MOD  | SAVE |            | MOD  | SAVE |
 | :--------- | :--- | :--- | :--------- | :--- | :--- | :--------- | :--- | :--- |
 | **Str 16** | +3   | +3   | **Dex 14** | +2   | +2   | **Con 14** | +2   | +2   |
@@ -19,7 +27,7 @@
 
 ***Multiattack.*** The werewolf makes two attacks, using Scratch or Longbow in any combination. It can replace one attack with a Bite attack.
 
-***Bite (Wolf or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. DC 12. The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a under the GM's control and has 10 Hit Points. The target is immune to this werewolf's curse for 24 hours.
+***Bite (Wolf or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. DC 12. The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a **Werewolf** under the GM's control and has 10 Hit Points. *Success:* The target is immune to this werewolf's curse for 24 hours.
 
 ***Scratch.*** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing damage.
 
