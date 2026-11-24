@@ -39,7 +39,7 @@
 
 ***Multiattack.*** The tarrasque makes one Bite attack and three other attacks, using Claw or Tail in any combination.
 
-***Bite.*** *Melee Attack Roll:* +19, reach 15 ft. *Hit:* 36 (4d12 + 10) Piercing damage, and the target has the Grappled
+***Bite.*** *Melee Attack Roll:* +19, reach 15 ft. *Hit:* 36 (4d12 + 10) Piercing damage, and the target has the Grappled condition (escape DC 20). Until the grapple ends, the target has the Restrained condition and can't teleport.
 
 ***Claw.*** *Melee Attack Roll:* +19, reach 15 ft. *Hit:* 28 (4d8 + 10) Slashing damage.
 

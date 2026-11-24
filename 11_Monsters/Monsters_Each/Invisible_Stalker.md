@@ -35,4 +35,4 @@ Petrified, Poisoned, Prone, Restrained, Unconscious **Senses** Darkvision 60 ft.
 
 ***Wind Swipe.*** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 11 (2d6 + 4) Force damage.
 
-***Vortex.*** *Constitution Saving Throw:* DC 14, one Large or smaller creature in the stalker's space.*Failure:* 7 (1d8 + 3) Thunder damage, and the target has the Grappled condition (escape DC 13). Until the grapple ends, the target can't cast spells with a Verbal component and
+***Vortex.*** *Constitution Saving Throw:* DC 14, one Large or smaller creature in the stalker's space. *Failure:* 7 (1d8 + 3) Thunder damage, and the target has the Grappled condition (escape DC 13). Until the grapple ends, the target can't cast spells with a Verbal component and takes 7 (2d6) Thunder damage at the start of each of the stalker's turns.

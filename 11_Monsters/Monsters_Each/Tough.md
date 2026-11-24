@@ -28,3 +28,5 @@
 ## Actions
 
 ***Mace.*** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Bludgeoning damage.
+
+***Heavy Crossbow.*** *Ranged Attack Roll:* +3, range 100/400 ft. *Hit:* 6 (1d10 + 1) Piercing damage.
