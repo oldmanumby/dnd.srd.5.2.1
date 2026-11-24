@@ -33,7 +33,7 @@
 
 ***Rend.*** *Melee Attack Roll:* +12, reach 10 ft. *Hit:* 16 (2d8 + 7) Slashing damage plus 5 (1d10) Lightning damage.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 19, each creature in a 90-foot-long, 5-foot- *Failure:* *Success:*
+***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw:* DC 19, each creature in a 90-foot-long, 5-foot-wide Line. *Failure:* 60 (11d10) Lightning damage. *Success:* Half damage.
 
 ***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18):
 
@@ -48,3 +48,5 @@
 ***Cloaked Flight.*** The dragon uses Spellcasting to cast *Invisibility* on itself, and it can fly up to half its Fly Speed. The dragon can't take this action again until the start of its next turn.
 
 ***Sonic Boom.*** The dragon uses Spellcasting to cast *Shatter* . The dragon can't take this action again until the start of its next turn.
+
+***Tail Swipe.*** The dragon makes one Rend attack.
